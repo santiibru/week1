@@ -1,0 +1,62 @@
+#logo{
+    max-width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    
+}
+.header-description{
+    background-color: #fdfbf1;
+    border-top-style: solid;
+    border-top-color: #ffd877;
+    padding: 5px;
+    margin: auto;
+    color: #044f4e;
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    font-family: 'GFS Didot', serif;
+   
+}
+main{
+    max-width: 700px;
+    margin: auto;
+    
+}
+#focaccia-img{
+    border-radius: 1%;
+
+}
+#description-img{
+    color: grey;
+    text-align: center;
+}
+
+#featured-in{
+    color: #bc5727;
+    border-left-style: solid;
+    border-left-color: #ffd877;
+    padding-left: 20px;
+}
+
+.links{
+    color: #187a7a;
+}
+
+.sub-titles{
+    border-bottom-style: solid;
+    border-bottom-color: #c4f3f2;
+    padding: 5px 0px 20px 0px;
+    font-size: 150%;
+    font-family: 'GFS Didot', serif;
+}
+.lists{
+    line-height: 40px;
+    font-family: 'GFS Didot', serif;
+}
+.lists-2{
+    font-family: 'GFS Didot', serif;
+}
